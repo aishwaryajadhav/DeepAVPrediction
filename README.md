@@ -25,3 +25,7 @@ To evaluate the model:
 ```
 python3 coco.py evaluate --dataset={PATH/TO/DATA/DIRECTORY} --model=last --logs=audio_model
 ```
+
+
+## References
+https://github.com/matterport/Mask_RCNN
